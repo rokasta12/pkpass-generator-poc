@@ -1,1 +1,33 @@
-node_modules
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# TypeScript cache and diagnostic files
+*.tsbuildinfo
+*.log
+*.log.*
+
+# Development tools and configurations
+.vscode/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Yarn lock file
+yarn.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+*~

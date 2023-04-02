@@ -1,14 +1,33 @@
 {
-	"compilerOptions": {
-		"target": "ES2022",
-		"module": "ES2022",
-		"lib": ["es6"],
-		"allowJs": true,
-		"outDir": "dist",
-		"rootDir": "src",
-		"strict": true,
-		"noImplicitAny": true,
-		"esModuleInterop": true,
-		"moduleResolution": "node"
-	}
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es2018"],
+    "module": "ESNext",
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "pretty": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2018",
+    "esModuleInterop": true,
+    "moduleResolution": "nodenext",
+    "baseUrl": ".",
+    
+  },
+  "include": [
+    "src/**/*.ts",
+    "test/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "paths": {
+    "@src/*": ["src/*"]
+  }
 }

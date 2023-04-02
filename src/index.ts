@@ -1,16 +1,15 @@
-import { PKPass } from "passkit-generator";
-import {
-	doSomethingWithTheBuffer,
-	getCertificatesContentsSomehow,
-} from "../src/getCertificatesContentsSomehow";
-import { doSomethingWithTheStream } from "./doSomethingWithTheStream";
+import pkg from 'passkit-generator';
+const { PKPass } = pkg;
+import { doSomethingWithTheStream } from "./doSomethingWithTheStream.js";
+import { getCertificatesContentsSomehow, doSomethingWithTheBuffer } from "./getCertificatesContentsSomehow.js";
+
 
 const bootstrap = async () => {
 	try {
 		/** Each, but last, can be either a string or a Buffer. See API Documentation for more */
 		const { wwdr, signerCert, signerKey, signerKeyPassphrase } =
 			getCertificatesContentsSomehow();
-
+    
 		const pass = await PKPass.from(
 			{
 				/**
