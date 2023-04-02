@@ -1,0 +1,116 @@
+{
+  "semantics": {},
+  "passTypeIdentifier": "pass.com.brandwallet.thehousecafe",
+  "formatVersion": 1,
+  "serialNumber": "6a438b4f-190d-4bb3-aeec-523797d02fe2",
+  "description": "THE HOUSE CAFE",
+  "organizationName": "The House Cafe",
+  "teamIdentifier": "FF425952UL",
+  "sharingProhibited": true,
+  "userInfo": {},
+  "foregroundColor": "rgb(204,102,51)",
+  "backgroundColor": "rgb(0,0,0)",
+  "labelColor": "rgb(204,102,51)",
+  "groupingIdentifier": "80",
+  "voided": false,
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "352442",
+      "messageEncoding": "iso-8859-1",
+      "altText": "352442"
+    }
+  ],
+  "authenticationToken": "zIT2eyzFBlkjbMXxZlLxZmSgjE90D6IG",
+  "webServiceURL": "https://api2.brand-wallet.com/api/v1/PassKit/",
+  "logoText": "Ferro Cafe",
+  "strip": "blob:https://pkvd.app/c7a88a66-391c-4c52-a093-5523a3efd437",
+  "storeCard": {
+    "headerFields": [
+      {
+        "key": "bwx11",
+        "label": "İçilen kahve",
+        "value": "4",
+        "textAlignment": "PKTextAlignmentCenter",
+        "dateStyle": "PKDateStyleMedium",
+        "timeStyle": "PKDateStyleNone"
+      }
+    ],
+    "auxiliaryFields": [],
+    "primaryFields": [],
+    "secondaryFields": [
+      { "key": "bwx31", "label": "AD SOYAD", "value": "bedirhan celayir" },
+      { "key": "bwx32", "label": "KART TİPİ", "value": "Bronze" }
+    ],
+    "backFields": [
+      { "key": "bwx-latestnoti", "label": "Son Mesajınız", "value": "" },
+      { "key": "bwx50", "label": "Hediyeleriniz", "value": "" },
+      {
+        "key": "bwx51",
+        "label": "Sadakat Programı Koşulları",
+        "attributedValue": "The House Cafe dijital kartını yükleyip, puan kazanmaya başlayan müşteriler fatura tutarlarının %20'u kadar puan kazanacaklardır. Puanlar harcanırken, 1 puan 1 TL yerine geçecektir. Her hesaptan en fazla 200 puan kazanılabilir. Davet ve Özel Organizasyonlar, müşteri sadakatı programına dahil değildir. The House Cafe Turizm ve Ticaret A.Ş. sadakat programındaki tüm koşulları değiştirme hakkını saklı tutar.\n\nDoğum günü hediyemiz olan THC Dilim Pasta kuponunuzun geçerliği 7 gündür.",
+        "value": "The House Cafe dijital kartını yükleyip, puan kazanmaya başlayan müşteriler fatura tutarlarının %20'u kadar puan kazanacaklardır. Puanlar harcanırken, 1 puan 1 TL yerine geçecektir. Her hesaptan en fazla 200 puan kazanılabilir. Davet ve Özel Organizasyonlar, müşteri sadakatı programına dahil değildir. The House Cafe Turizm ve Ticaret A.Ş. sadakat programındaki tüm koşulları değiştirme hakkını saklı tutar.\n\nDoğum günü hediyemiz olan THC Dilim Pasta kuponunuzun geçerliği 7 gündür."
+      },
+      {
+        "key": "bwx52",
+        "label": "Cep Telefonu Doğrulama",
+        "attributedValue": "<a href='https://verify.brand-wallet.com/VgK6i4r1MV'>Cep telefonunuzu doğrulamak için tıklayın.</a>",
+        "value": "<a href='https://verify.brand-wallet.com/VgK6i4r1MV'>Cep telefonunuzu doğrulamak için tıklayın.</a>"
+      },
+      {
+        "key": "bwx53",
+        "label": "Çalışma Saatleri",
+        "attributedValue": "CORNER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6184'>Menü İçin Tıklayınız</a>\nHer Gün: 08.00 - 00.30\nPaket servis & Gel Al 08:00 - 21.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Corner/@41.0487486,28.9920824,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab70c05b8c7af:0x30ebbc56fe6e0732!8m2!3d41.0487486!4d28.9942711'>Teşvikiye Caddesi No: 2/A</a>\n\nGARDEN\n<a href='https://thehousecafe.omnidiner.com/qr?r=6186'>Menü İçin Tıklayınız</a>\nHafta İçi: 12.00 - 23.00\nHafta Sonu: 11.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Garden/@41.0487864,28.9919022,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab767b480b141:0xdb515cb9cdcbeef9!8m2!3d41.0487864!4d28.9940909'>Atiye Sokak No:6 Nişantaşı Teşvikiye</a>\n\nATİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=5904'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Teşvikiye/@41.0486166,28.9914054,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab70c7c38f115:0x273e3afc1f7ca05b!8m2!3d41.0486166!4d28.9935941'>Atiye Sokak No: 10-1 Nişantaşı Teşvikiye</a>\n\nAKARETLER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6185'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Akaretler/@41.042321,29.0004304,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab79f74a6f0cf:0x9651f4d4ff9726ed!8m2!3d41.042321!4d29.0026191'>Süleyman Seba Cad. No:22 D:4 Beşiktaş Akaretler</a>\n\nKANYON\n<a href='https://thehousecafe.omnidiner.com/qr?r=6187'>Menü İçin Tıklayınız</a>\nHer Gün: 09.00 - 22.30\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe/@41.078347,29.0087259,17z/data=!3m2!4b1!5s0x14cab65d5610e819:0x389e307fb0143abe!4m5!3m4!1s0x14cab66816882a3f:0xae1f2f93b6840f4c!8m2!3d41.078347!4d29.0109146'>Kanyon Alışveriş Merkezi No: 185 Levent</a>\n\nORTAKÖY\n<a href='https://thehousecafe.omnidiner.com/qr?r=6183'>Menü İçin Tıklayınız</a>\nHafta İçi: 09.00 - 01.00\nHafta Sonu: 08.00 - 01.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Ortaköy/@41.0475211,29.0231463,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7c85e75abd7:0x3e42c44b3c90d8e4!8m2!3d41.0475211!4d29.025335'>Salhane Sokak No: 1 Ortaköy</a>\n\nMETROPOL\n<a href='https://thehousecafe.omnidiner.com/qr?r=6182'>Menü İçin Tıklayınız</a>\nHer Gün: 09.30 - 00.00\nAdres: <a href='https://www.google.com.tr/maps/place/METROPOL+%C4%B0STANBUL/@40.9938665,29.119733,17z/data=!3m1!4b1!4m5!3m4!1s0x14cacf5516ef0a05:0x157b6a54b6638981!8m2!3d40.9938665!4d29.1219217'>Ataşehir Atatürk, Ataşehir Blv., 34758 Ataşehir</a>\n\nSUADİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=6188'>Menü İçin Tıklayınız</a>\nHer Gün: 09.00 - 00.00\nPaket servis & Gel Al 09:00 - 22.30\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Suadiye/@40.9573639,29.0785761,17z/data=!3m1!4b1!4m5!3m4!1s0x14cac774fb5f345f:0x74dd0f17456cb142!8m2!3d40.9573639!4d29.0807648'>Suadiye Mah. Plaj Yolu Sk. No: 14/B </a>\n\nEMAAR\n<a href='https://thehousecafe.omnidiner.com/qr?r=6189'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nPaket servis & Gel Al 10:00 - 22.00\nAdres:<a href= 'https://www.google.com/maps/place/The+House+Cafe+Emaar/@41.0028126,29.068007,17z/data=!3m1!4b1!4m5!3m4!1s0x14cac79cb0cdcd2f:0x6bc71c136288c85c!8m2!3d41.0028086!4d29.0701957'>The House Café, Emaar Square Mall Terrace Floor katı</a>\n\nKIYI MARİNA\n<a href='https://thehousecafe.omnidiner.com/qr?r=6973'>Menü İçin Tıklayınız</a>\nPazartesi - Perşembe: 09.00 - 00.00\nCuma - Cumartesi: 09.00 - 01.00\nPazar: 09.00 - 00.00\nAdres:<a href= 'https://www.google.com/maps/place/The+House+Cafe+K%C4%B1y%C4%B1+Marina/@41.0215552,28.5660898,14.2z/data=!4m19!1m13!4m12!1m4!2m2!1d28.8980992!2d41.009152!4e1!1m6!1m2!1s0x14b55fb807677d9b:0x374533d16134a6fd!2sK%C4%B1y%C4%B1+Marina+House+Cafe!2m2!1d28.5885308!2d41.0191761!3m4!1s0x14b55fb807677d9b:0x374533d16134a6fd!8m2!3d41.0191761!4d28.5885308'>Fatih mahallesi 2. Kordonboyu caddesi No 4 / D Kıyı İstanbul Büyükçekmece / İstanbul\n\nNO FİSH TODAY - ATİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=6194'>Menü İçin Tıklayınız</a>\nHer Gün: 14.00 - 02.00\nAdres: <a href='https://www.google.com/maps/place/No+Fish+Today+Teşvikiye/@41.0425612,28.9801063,15z/data=!4m8!1m2!2m1!1sNO+FİSH+TODAY+ATİYE+!3m4!1s0x14cab74296054f89:0xd450b2101184f239!8m2!3d41.042802!4d28.975103'>Atiye Sokak No: 10-1 Nişantaşı Teşvikiye</a>\n\nNO FİSH TODAY - AKARETLER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6193'>Menü İçin Tıklayınız</a>\nHafta İçi: 14.00 - 01.00\nHafta Sonu: 14.00 - 02.30\nAdres: <a href='https://www.google.com/maps/place/No+Fish+Today+Akaretler/@41.0425605,28.9801063,15z/data=!4m8!1m2!2m1!1sNO+FİSH+TODAY+ATİYE+!3m4!1s0x14cab79f73a22d3d:0x22a3639eca783220!8m2!3d41.042321!4d29.0026191'>Süleyman Seba Cad. No:22 D:4 Beşiktaş Akaretler</a>",
+        "value": "CORNER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6184'>Menü İçin Tıklayınız</a>\nHer Gün: 08.00 - 00.30\nPaket servis & Gel Al 08:00 - 21.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Corner/@41.0487486,28.9920824,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab70c05b8c7af:0x30ebbc56fe6e0732!8m2!3d41.0487486!4d28.9942711'>Teşvikiye Caddesi No: 2/A</a>\n\nGARDEN\n<a href='https://thehousecafe.omnidiner.com/qr?r=6186'>Menü İçin Tıklayınız</a>\nHafta İçi: 12.00 - 23.00\nHafta Sonu: 11.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Garden/@41.0487864,28.9919022,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab767b480b141:0xdb515cb9cdcbeef9!8m2!3d41.0487864!4d28.9940909'>Atiye Sokak No:6 Nişantaşı Teşvikiye</a>\n\nATİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=5904'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Teşvikiye/@41.0486166,28.9914054,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab70c7c38f115:0x273e3afc1f7ca05b!8m2!3d41.0486166!4d28.9935941'>Atiye Sokak No: 10-1 Nişantaşı Teşvikiye</a>\n\nAKARETLER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6185'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Akaretler/@41.042321,29.0004304,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab79f74a6f0cf:0x9651f4d4ff9726ed!8m2!3d41.042321!4d29.0026191'>Süleyman Seba Cad. No:22 D:4 Beşiktaş Akaretler</a>\n\nKANYON\n<a href='https://thehousecafe.omnidiner.com/qr?r=6187'>Menü İçin Tıklayınız</a>\nHer Gün: 09.00 - 22.30\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe/@41.078347,29.0087259,17z/data=!3m2!4b1!5s0x14cab65d5610e819:0x389e307fb0143abe!4m5!3m4!1s0x14cab66816882a3f:0xae1f2f93b6840f4c!8m2!3d41.078347!4d29.0109146'>Kanyon Alışveriş Merkezi No: 185 Levent</a>\n\nORTAKÖY\n<a href='https://thehousecafe.omnidiner.com/qr?r=6183'>Menü İçin Tıklayınız</a>\nHafta İçi: 09.00 - 01.00\nHafta Sonu: 08.00 - 01.00\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Ortaköy/@41.0475211,29.0231463,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7c85e75abd7:0x3e42c44b3c90d8e4!8m2!3d41.0475211!4d29.025335'>Salhane Sokak No: 1 Ortaköy</a>\n\nMETROPOL\n<a href='https://thehousecafe.omnidiner.com/qr?r=6182'>Menü İçin Tıklayınız</a>\nHer Gün: 09.30 - 00.00\nAdres: <a href='https://www.google.com.tr/maps/place/METROPOL+%C4%B0STANBUL/@40.9938665,29.119733,17z/data=!3m1!4b1!4m5!3m4!1s0x14cacf5516ef0a05:0x157b6a54b6638981!8m2!3d40.9938665!4d29.1219217'>Ataşehir Atatürk, Ataşehir Blv., 34758 Ataşehir</a>\n\nSUADİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=6188'>Menü İçin Tıklayınız</a>\nHer Gün: 09.00 - 00.00\nPaket servis & Gel Al 09:00 - 22.30\nAdres: <a href='https://www.google.com/maps/place/The+House+Cafe+Suadiye/@40.9573639,29.0785761,17z/data=!3m1!4b1!4m5!3m4!1s0x14cac774fb5f345f:0x74dd0f17456cb142!8m2!3d40.9573639!4d29.0807648'>Suadiye Mah. Plaj Yolu Sk. No: 14/B </a>\n\nEMAAR\n<a href='https://thehousecafe.omnidiner.com/qr?r=6189'>Menü İçin Tıklayınız</a>\nHer Gün: 10.00 - 00.00\nPaket servis & Gel Al 10:00 - 22.00\nAdres:<a href= 'https://www.google.com/maps/place/The+House+Cafe+Emaar/@41.0028126,29.068007,17z/data=!3m1!4b1!4m5!3m4!1s0x14cac79cb0cdcd2f:0x6bc71c136288c85c!8m2!3d41.0028086!4d29.0701957'>The House Café, Emaar Square Mall Terrace Floor katı</a>\n\nKIYI MARİNA\n<a href='https://thehousecafe.omnidiner.com/qr?r=6973'>Menü İçin Tıklayınız</a>\nPazartesi - Perşembe: 09.00 - 00.00\nCuma - Cumartesi: 09.00 - 01.00\nPazar: 09.00 - 00.00\nAdres:<a href= 'https://www.google.com/maps/place/The+House+Cafe+K%C4%B1y%C4%B1+Marina/@41.0215552,28.5660898,14.2z/data=!4m19!1m13!4m12!1m4!2m2!1d28.8980992!2d41.009152!4e1!1m6!1m2!1s0x14b55fb807677d9b:0x374533d16134a6fd!2sK%C4%B1y%C4%B1+Marina+House+Cafe!2m2!1d28.5885308!2d41.0191761!3m4!1s0x14b55fb807677d9b:0x374533d16134a6fd!8m2!3d41.0191761!4d28.5885308'>Fatih mahallesi 2. Kordonboyu caddesi No 4 / D Kıyı İstanbul Büyükçekmece / İstanbul\n\nNO FİSH TODAY - ATİYE\n<a href='https://thehousecafe.omnidiner.com/qr?r=6194'>Menü İçin Tıklayınız</a>\nHer Gün: 14.00 - 02.00\nAdres: <a href='https://www.google.com/maps/place/No+Fish+Today+Teşvikiye/@41.0425612,28.9801063,15z/data=!4m8!1m2!2m1!1sNO+FİSH+TODAY+ATİYE+!3m4!1s0x14cab74296054f89:0xd450b2101184f239!8m2!3d41.042802!4d28.975103'>Atiye Sokak No: 10-1 Nişantaşı Teşvikiye</a>\n\nNO FİSH TODAY - AKARETLER\n<a href='https://thehousecafe.omnidiner.com/qr?r=6193'>Menü İçin Tıklayınız</a>\nHafta İçi: 14.00 - 01.00\nHafta Sonu: 14.00 - 02.30\nAdres: <a href='https://www.google.com/maps/place/No+Fish+Today+Akaretler/@41.0425605,28.9801063,15z/data=!4m8!1m2!2m1!1sNO+FİSH+TODAY+ATİYE+!3m4!1s0x14cab79f73a22d3d:0x22a3639eca783220!8m2!3d41.042321!4d29.0026191'>Süleyman Seba Cad. No:22 D:4 Beşiktaş Akaretler</a>"
+      },
+      {
+        "key": "bwx54",
+        "label": "Şubeler",
+        "attributedValue": "<a href='https://thehousecafe.com/subeler/'>Şubeler için tıklayınız.</a>",
+        "value": "<a href='https://thehousecafe.com/subeler/'>Şubeler için tıklayınız.</a>"
+      },
+      {
+        "key": "bwx55",
+        "label": "Menü",
+        "attributedValue": "<a href='https://thehousecafe.com/menu/'>Menü için tıklayınız.</a>",
+        "value": "<a href='https://thehousecafe.com/menu/'>Menü için tıklayınız.</a>"
+      },
+      {
+        "key": "bwx56",
+        "label": "Paket Servis",
+        "attributedValue": "The House Cafe lezzetleri, Fuudy App, Yemek Sepeti Vale ve Getir Yemek ile artık evinizde.",
+        "value": "The House Cafe lezzetleri, Fuudy App, Yemek Sepeti Vale ve Getir Yemek ile artık evinizde."
+      },
+      {
+        "key": "bwx57",
+        "label": "Yorum ve Önerileriniz",
+        "attributedValue": "https://thehousecafe.com/iletisim",
+        "value": "https://thehousecafe.com/iletisim"
+      },
+      {
+        "key": "bwx58",
+        "label": "Bize Ulaşın",
+        "attributedValue": "444 4 842 (THC)\ninfo@thehousecafe.com",
+        "value": "444 4 842 (THC)\ninfo@thehousecafe.com"
+      },
+      {
+        "key": "bwx59",
+        "label": "Bizi Takip Edin",
+        "attributedValue": "<a href='https://facebook.com/thehousecafe'>Facebook</a>\n\n<a href='https://twitter.com/TheHouseCafeTHC'>Twitter</a>\n\n<a href='https://instagram.com/thehousecafe'>Instagram</a>\n\n<a href='https://pinterest.com/TheHouseCafeTHC'>Pinterest</a>",
+        "value": "<a href='https://facebook.com/thehousecafe'>Facebook</a>\n\n<a href='https://twitter.com/TheHouseCafeTHC'>Twitter</a>\n\n<a href='https://instagram.com/thehousecafe'>Instagram</a>\n\n<a href='https://pinterest.com/TheHouseCafeTHC'>Pinterest</a>"
+      },
+      {
+        "key": "bwx-lastupdatedtime",
+        "label": "Last Updated Time",
+        "attributedValue": "2022-11-13 13:22:53",
+        "value": "2022-11-13 13:22:53"
+      },
+      {
+        "key": "bwx-poweredby",
+        "label": "Powered By",
+        "attributedValue": "<a href='https://brand-wallet.com?utm_source=PoweredByBrandWallet&utm_medium=THC+-+Bronz+Kart-97'>BrandWallet</a>",
+        "value": "<a href='https://brand-wallet.com?utm_source=PoweredByBrandWallet&utm_medium=THC+-+Bronz+Kart-97'>BrandWallet</a>"
+      }
+    ]
+  }
+}
