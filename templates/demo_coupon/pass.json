@@ -1,0 +1,14 @@
+{
+	"description": "Wallet-Wise",
+	"organizationName": "Demo Wise",
+	"passTypeIdentifier": "pass.com.ewalletwise.demo",
+	"teamIdentifier": "MCFC885H66",
+	"appLaunchURL": "https://iwalletwise.com/",
+	"authenticationToken": "123456",
+	"backgroundColor": "rgb(252,185,0)",
+	"foregroundColor": "rgb(247,141,167)",
+	"labelColor": "rgb(252,185,0)",
+	"logoText": "WalletWise",
+	"formatVersion": 1,
+	"coupon": { "backFields": [{ "value": "Istanbul", "label": "Adres" }] }
+}
